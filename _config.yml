@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/fulanhui/fulanhui.github.io.git
+  repository: git@github.com:fulanhui/fulanhui.github.io.git
   branch: master
